@@ -70,11 +70,5 @@ Technologies Used:
 
     Frontend: React.js, Tailwind CSS, Chart.js
 
-    Backend: Node.js, Express.js, MongoDB
-
-    Authentication: JSON Web Tokens (JWT), OAuth 2.0
-
-    Deployment: Docker, AWS, Nginx
-
 Target Audience:
 This admin panel is ideal for businesses, developers, and organizations looking for a robust and scalable solution to manage their operations, content, and users effectively
