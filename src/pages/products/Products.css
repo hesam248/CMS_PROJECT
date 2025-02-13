@@ -1,0 +1,16 @@
+.userList{
+    flex: 3;
+}
+
+.AddShop{
+    color: #06d306;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.delete{
+    color: red;
+    cursor: pointer;
+}
